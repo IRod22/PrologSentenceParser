@@ -1,0 +1,4 @@
+% parse the text below:
+pg(sentence(S), 'she is a chef.').
+% what is this text?
+pg(Result, 'chef').
